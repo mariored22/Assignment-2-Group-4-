@@ -9,7 +9,7 @@ class Clause {
     this.base = base; // heap where this starts
     this.len = len; // length of heap slice
     this.neck = neck; // first after the end of the head
-    this.xs = xs; // indexables in head
+    this.xs = xs; // indexables the in head 
   }
 
   final int len;
