@@ -5,7 +5,7 @@ var iProlog;
      * @class
      */
     var Clause = (function () {
-        function Clause(len, hgs, base, neck, xs) {
+        function Clause(len, hgs, base,neck, xs) {
             this.len = 0;
             this.hgs = null;
             this.base = 0;
