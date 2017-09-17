@@ -16,8 +16,10 @@ var iProlog;
             this.len = len;
             this.neck = neck;
             this.xs = xs;
+       
         }
-        return Clause;
+        
+   return Clause;
     }());
     iProlog.Clause = Clause;
     Clause["__class"] = "iProlog.Clause";
