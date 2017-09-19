@@ -20,8 +20,14 @@
                var y = parseInt(document.getElementById("value2").value);
                      
                   var z = document.getElementById("result");
-                   
-                  z.value = x + y;
+                   if(!x){
+                   alert("Enter a value for x");
+                   }else if(!y){
+                   alert("Enter a value for y");
+                   }else{
+                    z.value = x + y;
+                   }
+                 
                 }
     
     </script>
@@ -39,7 +45,7 @@
    
     <!-- This is the  output  variable Result -->
 
-        Result = <input type="text" class="form-control" id="result" name="result" value=""/>
+        Result = <input type="text" class="form-control" id="result" name="result" value="" readonly/>
      
    </div>
  
