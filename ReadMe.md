@@ -44,7 +44,7 @@ Team Members
  - Anil Chandra
  - Akhil Vijaya
  - Pooja
- - SoorJ Reddy
+ - Suraj Reddy
 
 
 
