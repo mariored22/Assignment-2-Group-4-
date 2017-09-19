@@ -6,37 +6,15 @@ Regarding Code conversion
 -------------
 The java file wherein the addition operation is performed is changed into a different language, its converted to javascript.
 
-ToDo Notify App
+Java Code 
 -------------
-The main purpose of this application is to leverage the Android notification to remind the specific todo tasks at the required time daily or on the needed day. Making all new experience with the Todo application.
+This Java Program is about to add the any two numbers. It will take the input from the Users in the console. adds the two numbers and will give the final output as a result
 
-Tools
+JavaScript Code
 -------------
- - Developed in Android Studio and IntelliJ
- - Tested with inbuilt JUnit testing 
- - SQLite
+ The Java Code is been converted into javascript. The Javascript is being embedded into the HTML for the responsivnes. As similar to the java code, it does the same thing, which takes the inputs from the user and perform the operation and finally when we click here button it will display the final output which is addition of two numbers.
+ Bootstrap is added to this code to make the output more responsive. 
  
-> **Note:**
-> Majority of the code is done in java platform in the android studio.
->Further functionality is checked in the ADE simulator.
->Logical testing is done with help of JUnit and Espresso Testing
-
-Used Functions
--------------------
- - Job Schedulers 
- - Android Services 
- - DbHelper
-
-> **Note:**
-> Job Schedulers are used to craft timely notifications with help of services.
-> The ToDo Data is stored on the device disk space using DbHelper
-
-ToDo
--------------
-
- - Customised notifications on user-selected time.
- - Improving UI Experience 
- - Covering Memory Leaks.
 
 Team Members 
 -------------
