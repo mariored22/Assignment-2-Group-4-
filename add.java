@@ -11,8 +11,8 @@ public class addition
         num1 = scan.nextInt();
         num2 = scan.nextInt();
 		
-        sum = num1 + num2;
+        sum = num1 +  num2;
 		
-        System.out.print("Sum of the Entered Two Number is " +sum);
+        System.out.print("Sum of the  Entered Two Number is " +sum);
     }
 }
