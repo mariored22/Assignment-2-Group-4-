@@ -14,7 +14,7 @@ JavaScript Code
 -------------
  The Java Code is been converted into javascript. The Javascript is being embedded into the HTML for the responsivnes. As similar to the java code, it does the same thing, which takes the inputs from the user and perform the operation and finally when we click here button it will display the final output which is addition of two numbers.
  Bootstrap is added to this code to make the output more responsive. 
- 
+ This javascript is stored in .html file because javascript is embedded in HTML.
 
 Team Members 
 -------------
