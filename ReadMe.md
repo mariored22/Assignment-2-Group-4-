@@ -7,8 +7,11 @@ Regarding Code conversion
 The java file is changed into a different language, its converted to cpp.
 
 The planning board is created.
+------------
 Sprint backlog is filled and assigned.
+------------
 List of git operations done. 
+------------
 User stories which influenced the sprint choices. 
 
 Team Members 
