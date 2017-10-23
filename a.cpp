@@ -27,7 +27,7 @@ std::wstring Toks::IS = L"is";
 		return T;
 
 	  }
-//JAVA TO C++ CONVERTER WARNING: 'final' catch parameters are not available in C++:
+//JAVA TO C++ CONVERTER WARNING: 'final' catch parameters are not there in the C plus plus:
 //ORIGINAL LINE: catch (final IOException e)
 	  catch (const IOException &e)
 	  {
