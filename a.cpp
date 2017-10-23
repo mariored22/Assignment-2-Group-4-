@@ -30,7 +30,7 @@ std::wstring Toks::IS = L"is";
 
 	  catch (const IOException &e)
 	  {
-		e->printStackTrace();
+		printStackTrace();
 		return nullptr;
 	  }
 	}
@@ -177,8 +177,8 @@ std::wstring Toks::IS = L"is";
 	  return Arrays::deepToString(Wsss);
 	}
 
-	void Toks::main(std::vector<std::wstring> &args)
+	void main(std::vector<std::wstring> &args)
 	{
-	  Main::pp(toSentences(L"prog.nl", true));
+	  pp(toSentences(L"prog.nl", true));
 	}
 }
