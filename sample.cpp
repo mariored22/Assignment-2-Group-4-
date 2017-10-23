@@ -115,11 +115,12 @@ void make_arrays ( int m, int **a, int n, int **b )
   
   ( *a ) = new int[m];
   pa = *a;
-
-  for ( i = 0; i < m; i++ )
-  {
-    pa[i] = 10 + i;
-  }
+  i=0;
+while (i<m)
+{
+      pa[i] = 10 + i;
+i++;
+}
   i4vec_print ( m, pa, "  A as defined in MAKE_ARRAYS:" );
 
   ( *b ) = new int[n];
